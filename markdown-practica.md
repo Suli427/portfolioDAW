@@ -37,6 +37,7 @@ va usté muy cargadoo no puedor torpedo [conde](https://dle.rae.es/conde)mor.
 | apetecan      | jarl     |
 | papaar      | papaar     |
 | torpedo      |      |
+
 Llevame al sircoo se calle ustée.
 * Ahorarr torpedo
 * Te va a hasé pupitaa
