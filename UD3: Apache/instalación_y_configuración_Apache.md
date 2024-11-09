@@ -23,7 +23,7 @@ Antes de ir a probar Apache, se debe modificar los ajustes del firewall para per
 
 Durante la instalación, Apache se integra con UFW y crea varios perfiles de aplicación que permiten activar o desactivar el acceso a Apache a través del firewall.
 
-Para enumerar dichos perfiles en una lista, escribiremos lo siguiente:
+Para enumerar dichos perfiles en una lista, escribiremos lo siguiente:   
 !["UD3: Apache"/imagenes/cap4.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD3%3A%20Apache/imagenes/cap4.png)
 
 Por recomendación, habilitaremos el perfil más restrictivo solamente, que, de igual forma, permitirá el tráfico por el puerto 80 que es el que nos interesa. Antes de realizar esto, activaremos el cortafuegos, seguidamente habilitaremos el perfil y finalmente veremos su estado:  
