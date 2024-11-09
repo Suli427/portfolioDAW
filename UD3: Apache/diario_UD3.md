@@ -1,5 +1,5 @@
 # ¿Qué he aprendido?
-En esta unidad he aprendido a instalar y configurar apache para finalmente crear un sitio web funcional.
+En esta unidad he aprendido a instalar y configurar Apache para finalmente crear un sitio web funcional.
 # ¿Me ha resultado difícil alguna cosa o me ha costado entenderla?
 Esta práctica me ha resultado bastante sencilla de realizar debido al material proporcionado por el profesor.
 # ¿Qué es lo que más me ha gustado y qué es lo que menos?
