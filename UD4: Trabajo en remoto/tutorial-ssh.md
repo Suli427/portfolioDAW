@@ -42,7 +42,7 @@ Para ello, nuestro compañero tendrá que permitir la entrada por el puerto 22 c
 A continuación, ejecutaremos el siguiente comando con el nombre de usuario y la dirección IP del equipo al que deseamos conectarnos:
 ![UD4: Trabajo en remoto"/imagenes/cap10.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD4%3A%20Trabajo%20en%20remoto/imagenes/cap10.png)
 
-![UD4: Trabajo en remoto"/imagenes/cap11.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD4%3A%20Trabajo%20en%20remoto/imagenes/cap11.png)
+![UD4: Trabajo en remoto"/imagenes/cap11.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD4%3A%20Trabajo%20en%20remoto/imagenes/cap11.png)  
 Como podemos ver, nos hemos conectado al equipo de nuestro compañero y hemos creado un directorio.
 
 # Conclusión
