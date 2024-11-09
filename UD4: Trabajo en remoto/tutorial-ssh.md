@@ -9,7 +9,7 @@ Iniciaremos instalando SSH utilizando el siguiente comando:
 ## Configuración SSH
 Cuando se cambie la configuración de SSH, también se cambiará la configuración del servidor sshd. En Ubuntu, el archivo principal de configuración sshd lo podemos encontrar en *etc/ssh/sshd_config/*.
 
-Antes de editar el archivo de configuración, comprobaremos que la instalación de SSH ha sido correcta ejecutando el primer comando de la siguiente imagen. Luego, realizaremos una copia de seguridad del archivo de configuración sshd (*sshd_config*) con el segundo comando de la imagen:
+Antes de editar el archivo de configuración, comprobaremos que la instalación de SSH ha sido correcta ejecutando el primer comando de la siguiente imagen. Luego, realizaremos una copia de seguridad del archivo de configuración sshd (*sshd_config*) con el segundo comando de la imagen:  
 ![UD4: Trabajo en remoto"/imagenes/cap2.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD4%3A%20Trabajo%20en%20remoto/imagenes/cap2.png)
 
 A continuación, utilizaremos el editor nano para modificar el archivo de configuración:
@@ -37,7 +37,7 @@ Si no sabemos nuestra IP, podemos ejecutar el comando *ifconfig*. Este comando n
 Para terminar, vamos a conectarnos al equipo de otro compañero.
 
 Para ello, nuestro compañero tendrá que permitir la entrada por el puerto 22 con el siguiente comando:
-![UD4: Trabajo en remoto"/imagenes/cap9.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD4%3A%20Trabajo%20en%20remoto/imagenes/cap9.png)
+![UD4: Trabajo en remoto"/imagenes/cap9.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD4%3A%20Trabajo%20en%20remoto/imagenes/cap9.png)  
 
 A continuación, ejecutaremos el siguiente comando con el nombre de usuario y la dirección IP del equipo al que deseamos conectarnos:
 ![UD4: Trabajo en remoto"/imagenes/cap10.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD4%3A%20Trabajo%20en%20remoto/imagenes/cap10.png)
