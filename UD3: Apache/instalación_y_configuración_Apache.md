@@ -62,16 +62,16 @@ Visto todo esto, vamos a crear nuestro propio sitio web. Por defecto, Apache vie
 El primer paso para crear nuestro sitio web será crear una carpeta para él:
 !["UD3: Apache"/imagenes/cap15.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD3%3A%20Apache/imagenes/cap15.png)
 
-Seguidamente crearemos el archivo html que va a tener nuestro sitio web. A este archivo lo llamaremos index.html y utilizaremos el comando nano para crearlo. Su contenido será el siguiente:
+Seguidamente crearemos el archivo html que va a tener nuestro sitio web. A este archivo lo llamaremos index.html y utilizaremos el comando nano para crearlo. Su contenido será el siguiente:   
 !["UD3: Apache"/imagenes/cap16.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD3%3A%20Apache/imagenes/cap16.png)
 
 ## Configuración del archivo de configuración VirtualHost
-Comenzaremos este paso dirigiéndonos al directorio de archivos de configuración y copiaremos el archivo VirtualHost predeterminado que viene con Apache:
+Comenzaremos este paso dirigiéndonos al directorio de archivos de configuración y copiaremos el archivo VirtualHost predeterminado que viene con Apache:   
 !["UD3: Apache"/imagenes/cap17.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD3%3A%20Apache/imagenes/cap17.png)
 
 A continuación, editaremos el archivo de configuración utilizando el comando nano. En este archivo, deberíamos tener nuestro correo electrónico en ServerAdmin para que así los usuarios puedan contactar con nosotros en caso de que   Apache experimente algún error. También queremos el DocumentRoot para apuntar al directorio de nuestros archivos alojados en /var/www/gci. Por último, este archivo no viene con un ServerName, por lo que tendremos que añadirlo y definir el nombre del servidor.
 
-El resultado será el siguiente:
+El resultado será el siguiente:   
 !["UD3: Apache"/imagenes/cap18.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD3%3A%20Apache/imagenes/cap18.png)
 
 ## Activar archivo VirtualHost
