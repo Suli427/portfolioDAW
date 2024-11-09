@@ -5,5 +5,5 @@ Esta práctica me ha resultado bastante sencilla de realizar debido al material 
 # ¿Qué es lo que más me ha gustado y qué es lo que menos?
 Por una parte, lo que más me ha gustado ha sido ver el resultado exitoso del ejercicio. Por otra parte, no hay algo que me haya disgustado de esta práctica.
 # ¿Qué más me gustaría saber relacionado con la Unidad?
-* Configuración avanzada de Apache, por ejemplo, cómo configurar módulos adicionales.
-* Cómo implementar SSL/TLS para configurar HTTPS.
+* Configuración de HTTPS en Apache mediante certidficados SSL.
+* Aprender a proteger directorios específicos con autenticación básica (usando .htaccess y .htpasswd para definir usuarios y contraseñas)
