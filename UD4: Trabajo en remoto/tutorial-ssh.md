@@ -4,7 +4,7 @@ En este documento, se explica cómo instalar y configurar Apache de forma básic
 # Actividades realizadas
 ##Instalación SSH
 Para empezar, instalaremos SSH. Para ello, usaremos el siguiente comando:
-[UD4: Trabajo en remoto"/imagenes/cap1.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD4%3A%20Trabajo%20en%20remoto/imagenes/cap1.png)
+![UD4: Trabajo en remoto"/imagenes/cap1.png](https://raw.githubusercontent.com/Suli427/portfolioDAW/refs/heads/main/UD4%3A%20Trabajo%20en%20remoto/imagenes/cap1.png)
 
 # Resultado final
 
