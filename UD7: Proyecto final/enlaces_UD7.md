@@ -1,2 +1,2 @@
 En este enlace se encuentra la documentación del proyecto final de Joomla.
-* [Entregable: Proyecto final Joomla - Documentación]([https://docs.google.com/document/d/1sZbmg7hNZrEIOqxFnaV12WrbuuQ6OwHefwd5y5Yy4fw/edit?usp=sharing](https://docs.google.com/document/d/1o5dkWg5wiBlix5EzhSdN3B8NJHx2xJEltOGHS7kqAlg/edit?usp=sharing))
+* [Entregable: Proyecto final Joomla - Documentación]([[https://docs.google.com/document/d/1sZbmg7hNZrEIOqxFnaV12WrbuuQ6OwHefwd5y5Yy4fw/edit?usp=sharing](https://docs.google.com/document/d/1o5dkWg5wiBlix5EzhSdN3B8NJHx2xJEltOGHS7kqAlg/edit?usp=sharing)](https://docs.google.com/document/d/1o5dkWg5wiBlix5EzhSdN3B8NJHx2xJEltOGHS7kqAlg/edit?usp=sharing))
